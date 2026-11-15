@@ -1,0 +1,19 @@
+{
+  "id": "test",
+  "name": "測試",
+  "kind": "annual",
+  "template": "sample",
+  "createdAt": "2026-11-15T07:25:15.130Z",
+  "gates": [
+    "proposal",
+    "mdr",
+    "pdr",
+    "cdr",
+    "trr",
+    "frr",
+    "anomaly",
+    "closeout"
+  ],
+  "manual": {},
+  "signoffs": []
+}
