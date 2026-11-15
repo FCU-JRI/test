@@ -1,0 +1,50 @@
+{
+ "bdd": {
+  "Project__Structure___e7_81_ab_e7_ae_ad": {
+   "x": 288,
+   "y": 24
+  },
+  "Project__Structure___e6_8e_a8_e9_80_b2_e6_ac_a1_e7_b3_bb_e7_b5_b1": {
+   "x": 24,
+   "y": 324
+  },
+  "Project__Structure___e8_88_aa_e9_9b_bb_e6_ac_a1_e7_b3_bb_e7_b5_b1": {
+   "x": 288,
+   "y": 348
+  },
+  "Project__Structure___e5_9b_9e_e6_94_b6_e6_ac_a1_e7_b3_bb_e7_b5_b1": {
+   "x": 540,
+   "y": 348
+  },
+  "Project__Structure___e7_81_ab_e7_ae_ad___e6_8e_a8_e9_80_b2": {
+   "x": 24,
+   "y": 204
+  },
+  "Project__Structure___e7_81_ab_e7_ae_ad___e8_88_aa_e9_9b_bb": {
+   "x": 288,
+   "y": 204
+  },
+  "Project__Structure___e7_81_ab_e7_ae_ad___e5_9b_9e_e6_94_b6": {
+   "x": 540,
+   "y": 204
+  }
+ },
+ "uc": {
+  "Project__UseCases___e5_9f_b7_e8_a1_8c_e7_99_bc_e5_b0_84": {
+   "x": 312,
+   "y": 36
+  },
+  "Project__UseCases___e5_b0_8b_e5_9b_9e_e7_81_ab_e7_ae_ad": {
+   "x": 312,
+   "y": 120
+  },
+  "Project__Stakeholders___e7_ab_b6_e8_b3_bd_e4_b8_bb_e8_be_a6_e6_96_b9": {
+   "x": 36,
+   "y": 108
+  },
+  "Project__Stakeholders___e6_8c_87_e5_b0_8e_e8_80_81_e5_b8_ab": {
+   "x": 24,
+   "y": 24
+  }
+ }
+}

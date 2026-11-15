@@ -131,4 +131,5 @@ package Project {
             :>> owner = "回收組";
         }
     }
+    #trace dependency from Project::UseCases::'尋回火箭' to Project::Stakeholders::'競賽主辦方';
 }
